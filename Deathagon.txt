@@ -1,0 +1,26 @@
+Networking game
+
+	Battle Arena Game (Deathagon?)
+	
+		Decagon shaped ring, everyone runs the same game simultaneously clientside
+		Sending waves of enemies to players, building up income allowing them to purchase:
+		Guns, Upgrades, More enemies to boost income further. Add layers to the arena the longer games go on?
+	
+	Upgrade Ideas:
+		Grappling hook: creates a pivot point on a target you're looking at and swings your character
+		Movement speed
+		Jump height
+		Aim assist -> Critical aim assist
+		
+	Weapons:
+		Pistol
+			Increase capacity
+			Add piercing
+			Increase fire rate
+			Change Ammo type
+		Rifle
+			Semi/Auto fire
+		Shotgun
+
+		
+		
